@@ -16,7 +16,34 @@
 body {
   font-family: Cursive, Fantasy, Cursive;
 }
+  <!DOCTYPE html>
+<html>
+<head>
+<style> 
+#myDIV {
+  width: 300px;
+  height: 200px;
+  background: red;
+  animation: mymove 5s infinite;
+}
 
+@keyframes mymove {
+  from {background-color: purple;}
+  to {background-color: pink;}
+}
+</style>
+</head>
+<body>
+<h1>Animation of background-color</h1>
+
+<p>Gradually change the background-color from red to blue:<p>
+
+<div id="myDIV"></div>
+
+<p><strong>Note:</strong> CSS Animations do not work in Internet Explorer 9 and earlier versions.</p>
+
+</body>
+</html>
 /* Style the header */
 header {
   background-color: ##8A2BE2
