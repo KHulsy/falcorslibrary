@@ -1,2 +1,2 @@
 # falcors_library
-[![<UCBFullStack>](https://circleci.com/<VCS>/<UCBFullStack_KaitlinHulsy>/<falcors_library>.svg?style=svg)](<LINK>)
+https://img.shields.io/github/license/KHulsy/youhavebeenreadmegenerato?logo=Siren%20Song%20Productions&style=plastic
