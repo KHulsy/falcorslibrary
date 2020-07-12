@@ -1,1 +1,1 @@
-Read Me Generator Code Hither
+ #!/usr/bin/env/ node
