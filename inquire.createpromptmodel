@@ -1,1 +1,5 @@
-Generating questions with inquire in the terminalz. 
+//Generating questions with inquire in the terminalz. 
+
+var prompt = inquirer.createPromptModule();
+
+prompt(questions).then(/* ... */);
