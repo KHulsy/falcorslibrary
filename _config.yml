@@ -1,0 +1,8 @@
+title: Youhavebeenreadreadmegenerato
+description: "I'm just an English teacher using Node.js in the command line. NBD. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
